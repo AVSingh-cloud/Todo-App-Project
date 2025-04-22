@@ -1,0 +1,8 @@
+.container {
+
+  background-color:beige;
+  border: 2px black solid;
+  min-height: 500px;
+  min-width: 400px;
+  border-radius: 5px;
+}
